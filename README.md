@@ -15,8 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="./WeatherAppImages/localhost_58203_(Samsung Galaxy S20 Ultra).png" alt="Image of weather app" height = 100/> 
-<img src="./WeatherAppImages/localhost_58203_(Samsung Galaxy S20 Ultra) (1).png" alt="Image of weather app" height = 100/>
-<img src="./WeatherAppImages/localhost_58203_(Samsung Galaxy S20 Ultra) (2).png" alt="Image of weather app" height = 100/>
-<img src="./WeatherAppImages/localhost_58203_(Samsung Galaxy S20 Ultra) (3).png" alt="Image of weather app" height = 100/>
-<img src="./WeatherAppImages/localhost_58203_(Samsung Galaxy S20 Ultra) (4).png" alt="Image of weather app" height = 100/>
+<img src="./WeatherAppImages/localhost_58203_(Samsung Galaxy S20 Ultra).png" alt="Image of weather app" height = 100 width=100/> 
+<img src="./WeatherAppImages/localhost_58203_(Samsung Galaxy S20 Ultra) (1).png" alt="Image of weather app" height = 100 width=100/>
+<img src="./WeatherAppImages/localhost_58203_(Samsung Galaxy S20 Ultra) (2).png" alt="Image of weather app" height = 100 width=100/>
+<img src="./WeatherAppImages/localhost_58203_(Samsung Galaxy S20 Ultra) (3).png" alt="Image of weather app" height = 100 width=100/>
+<img src="./WeatherAppImages/localhost_58203_(Samsung Galaxy S20 Ultra) (4).png" alt="Image of weather app" height = 100 width=100/>
